@@ -33,3 +33,19 @@ check = {num for num in range (100)}
 print(check)
 check = {num for num in range (100)}
 print(check)
+
+
+import logfire
+from pydantic import BaseModel
+from pydantic_ai import Agent
+
+logfire.configure()
+logfire.instrument_pydantic_ai()
+
+
+class City(BaseModel):
+    name: str
+    country: str
+    population: int
+    tourist_population: int
+    landmarks: list[str]
