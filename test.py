@@ -23,6 +23,12 @@ You-jitsu 4th Season, Classroom of the Elite IV: Year 2
 check = {num for num in range (100)}
 print(check)
 
+'''
+nigger
+
+'''
+adadasdadadasdasd
+
 
 
 
