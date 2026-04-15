@@ -13,7 +13,11 @@
  #   file.write('\n nigger nigger nigger ah hahahaha ah ')
  
 #write to a  new file
-with open ('/home/bisonrx/Documents/testfile1.txt', 'w') as file: #creates a new file with the below sentence in it
-   file.write('\n nigger nigger nigger ah hahahaha ah ') 
+#with open ('/home/bisonrx/Documents/testfile1.txt', 'w') as file: #creates a new file with the below sentence in it make sure to change name or it will write over the same name one
+ #  file.write('\n nigger nigger nigger ah hahahaha ah ') 
+   
+#Deleting    
 
- # do a different one   
+
+   
+   
