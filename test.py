@@ -27,7 +27,7 @@ print(check)
 nigger
 
 '''
-adadasdadadasdasd
+
 
 
 
