@@ -15,3 +15,5 @@
 #write to a  new file
 with open ('/home/bisonrx/Documents/testfile1.txt', 'w') as file: #creates a new file with the below sentence in it
    file.write('\n nigger nigger nigger ah hahahaha ah ') 
+
+ # do a different one   
